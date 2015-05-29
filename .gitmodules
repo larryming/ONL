@@ -41,3 +41,6 @@
 [submodule "submodules/onlp-dell"]
 	path = submodules/onlp-dell
 	url = git@github.com:opennetworklinux/onlp-dell
+[submodule "submodules/onlp-celestica"]
+        path = submodules/onlp-celestica
+        url = git://github.com/opennetworklinux/onlp-celestica
